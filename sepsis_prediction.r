@@ -1,5 +1,5 @@
 # setwd("G:/bme-files/sem-7/project/data5")
-setwd("G:/bme-files/sem-7/project/extracted dataset/training")
+setwd("G:/bme-files/sem-7/project/extracted dataset/training") % Reading data from appropriate location
 library(stringi)
 library(rapportools)
 
