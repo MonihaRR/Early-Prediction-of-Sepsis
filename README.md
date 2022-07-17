@@ -6,3 +6,7 @@ The physionet link for the data - https://physionet.org/content/challenge-2019/1
 
 Steps followed:
 ![image](https://user-images.githubusercontent.com/63999177/179417728-47db30a2-eb8e-428f-ba2f-8a17addfeb09.png)
+
+Procedure for data cleansing:
+![image](https://user-images.githubusercontent.com/63999177/179417786-82830e96-da68-4858-9306-a0e7a534def3.png)
+
