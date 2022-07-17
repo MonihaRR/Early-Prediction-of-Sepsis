@@ -22,3 +22,10 @@ ii) KNN:
 ![knn_100_1](https://user-images.githubusercontent.com/63999177/179418045-1c93cf5a-82cb-49e7-b824-90788e44970b.png)
 
 
+Contributors:
+1. Moniha Rangaraju Radhamani
+2. Sabarinathan S
+3. Dharani Krishnan S
+4. Karthikeyan D
+
+
