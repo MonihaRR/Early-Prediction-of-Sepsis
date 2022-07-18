@@ -13,12 +13,15 @@ Procedure for data cleansing:
 Results:
 
 i) Logistic Regression:
+
 ![image](https://user-images.githubusercontent.com/63999177/179417934-73b2d615-b6ba-4015-90d3-0a472924045d.png)
 
 ![logistic_validation_1](https://user-images.githubusercontent.com/63999177/179417952-f0fb0810-03c5-4440-9450-a3559a622bfe.png)
 
 ii) KNN:
+
 (Different neighbour values were tried and better accuracy was found for k=100)
+
 ![knn_100_1](https://user-images.githubusercontent.com/63999177/179418045-1c93cf5a-82cb-49e7-b824-90788e44970b.png)
 
 
